@@ -7,9 +7,9 @@
 * Transformers
 * A Cabana
 
-## Filmes preferidos de Integrante2
+## Filmes preferidos de William
 
 * Piratas do Caribe
-* A era do gelo
-* Formiguinhas
-* Toy Store
+* Mestre das Armas
+* O Corvo
+* O Resgate do Soldado Ryan
