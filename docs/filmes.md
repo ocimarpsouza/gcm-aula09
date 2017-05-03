@@ -1,11 +1,11 @@
 # Filmes preferidos da equipe
 
-## Filmes preferidos de Integrante1
+## Filmes preferidos de Fernando F.Silva
 
-* Velozes e furiosos 8
-* A bela e a fera
-* Transformers
-* A Cabana
+* Os Vingadores
+* O Homem Araha
+* Batman
+* Os Vingadores 2
 
 ## Filmes preferidos de Integrante2
 
@@ -13,3 +13,4 @@
 * A era do gelo
 * Formiguinhas
 * Toy Store
+
