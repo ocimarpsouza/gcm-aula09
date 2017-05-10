@@ -1,8 +1,8 @@
 # Games preferidos da equipe
 
-## Membro 1
+## William
 
-* Game A
-* Game B
-* Game C
-* Game D
+* Need For Speed
+* League Of Legends
+* Team Fortress 2
+* Half Life
