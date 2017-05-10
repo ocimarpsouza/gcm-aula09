@@ -1,8 +1,9 @@
 # Series preferidas da equipe
 
-## Membro 1
+## William
 
-* Série A
-* Série B
-* Série C
-* Série D
+* The 100
+* Monk
+* House MD
+* Falling Skies
+
