@@ -1,8 +1,8 @@
 # Games preferidos da equipe
 
-## Membro 1
+## Fernando
 
-* Game A
-* Game B
-* Game C
-* Game D
+* Silent Hill
+* Resident Evil
+* Super Mario World
+* FIFA
