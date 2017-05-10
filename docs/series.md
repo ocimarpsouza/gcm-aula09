@@ -7,3 +7,9 @@
 * House MD
 * Falling Skies
 
+## Fernando
+
+* Big Bang Theory
+* How I Meet Your Mother
+* Penny Dreadfull
+* Firends
