@@ -13,3 +13,9 @@
 * How I Meet Your Mother
 * Penny Dreadfull
 * Firends
+
+## Ocimar
+* Grimm
+* Chapolim
+* Chaves
+* Todo mundo odeia o cris
